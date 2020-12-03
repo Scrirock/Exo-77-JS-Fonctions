@@ -1,7 +1,15 @@
 /* Voici un exemple de fonction retournant du texte, inspirez vous de cet exemple pour réaliser l'exercice */
 
+function txtInsert(){
+    return "J'aime le Javascript";
+}
+
 function txtReturn() {
     return "monTexte";
+}
+
+function backgroundSet(){
+    return "magenta";
 }
 
 
